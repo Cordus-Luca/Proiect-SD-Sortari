@@ -264,6 +264,10 @@ void sortare(string A,long long N,vector <int>& v)
     {
         RadixSort(v,N);
     }
+    if(A=="L")
+    {
+        sort(v.begin(),v.end());
+    }
 }
 int main()
 {
@@ -285,7 +289,7 @@ int main()
         ///cin>>M;
         M=100000;
         cout<<endl<<endl;
-        cout<<"Algoritm sortare(B,C,R,M,Q): ";
+        cout<<"Algoritm sortare(B,C,R,M,Q,L): ";
         cin>>A;
         genereaza(TT,N,v,M);
         cout<<endl;
