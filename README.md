@@ -1,2 +1,2 @@
 # Proiect-SD-Sortari
-Proiect SD
+Am abreviat numele sortarilor si a tipurilor de teste pentru utilizare mai rapida.
