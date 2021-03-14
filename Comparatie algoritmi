@@ -1,0 +1,34 @@
+BubbleSort:
+
+-Cel mai slab algoritm de sortare din punct de vedere al vitezei.
+-Daca primeste mai mult de 10^5 elemente este mult prea lent.
+-Cea mai slaba performanta o are pe tipul de test cu vectorul de forma Aproape sortat descrescator.
+-Cea mai buna performanta o are pe tipul de test cu vectorul de forma Constant.
+
+CountSort:
+
+-Cel mai rapid algoritm de sortare din punct de vedere al vitezei pe un numar mare de elemente numere naturale.
+-Incet in comparatie cu ceilalti algoritmi la numar mic de elemente pe vectori de tipul Aproape sortat descrescator si Aproape sortat descrescator.
+-Cea mai slaba performanta o are pe tipul de test cu vectorii de forma Aproape sortat descrescator si Aproape sortat descrescator.
+-Cea mai buna performanta o are pe tipul de test cu vectorul de forma Constant.
+
+RadixSort:
+
+-Algoritm de sortare rapid chiar si pe un numar mare de elemente.
+-Cea mai buna performanta o are pe departe pe tipul de test cu vectorul de forma Constant, acest algoritm fiind aproape instant pe vectori cu pana la 10^6 elemente, intrecand pana si CountSort.
+-Performanta buna pe restul tipurilor de test.
+
+MergeSort:
+
+-Al doilea cel mai slab algoritm dintre cei 6 din punct de vedere al vitezei.
+-Performanta este asemanatoare intre toate tipurile de teste.
+
+QuickSort:
+
+-Cel mai rapid algoritm dintre cei 6 din punct de vedere al vitezei la vectori cu 10^5 sau mai putine elemente, dupa care este invins de CountSort.
+-Cea mai slaba performanta pe tipul de test cu vectori constanti.
+
+Algoritm implementat de limbaj:
+
+-Cea mai slaba performanta o are pe tipul de test cu vectorul de forma Aproape sortat crescator.
+-Cea mai buna performanta o are pe tipul de test cu vectorul de forma Aproape sortat descrescator.
