@@ -1,6 +1,6 @@
 # Sorting Algorithm testing
 
-This program tests the speed of various sorting algorithms on different types of arranged arrays.
+This program tests the speed of various sorting algorithms on different types of arranged arrays (up to n = 10^6 size).
 
 Test type:
 ASC = Almost sorted | 
@@ -15,3 +15,6 @@ R = RadixSort |
 M = MergeSort | 
 Q = QuickSort | 
 L = Integrated sorting function
+
+
+An excel file is attached with the tested times in ms.
