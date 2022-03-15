@@ -1,16 +1,17 @@
-# Proiect-SD-Sortari
-Am abreviat numele sortarilor si a tipurilor de teste pentru utilizare mai rapida.
+# Sorting Algorithm testing
 
-Tip Test:
-ASC = Aproape sortat crescator
-ASD = Aproape sortat descrescator
-R = Random
+This program tests the speed of various sorting algorithms on different types of arranged arrays.
+
+Test type:
+ASC = Almost sorted | 
+ASD = Almost sorted descending | 
+R = Random | 
 C = Constant
 
-Algoritm sortare:
-B = BubbleSort
-C = CountSort
-R = RadixSort
-M = MergeSort
-Q = QuickSort
-L = Algoritmul implementat de limbaj
+Sorting Algorithm:
+B = BubbleSort | 
+C = CountSort | 
+R = RadixSort | 
+M = MergeSort | 
+Q = QuickSort | 
+L = Integrated sorting function
